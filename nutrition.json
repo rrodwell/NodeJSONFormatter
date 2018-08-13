@@ -116,7 +116,7 @@
                         "unit": "g",
                         "count": 35
                     },
-                    "dailyValue": 13
+                    "dailyValue": 12
                 },
                 "sugar": {
                     "amount": {
@@ -136,10 +136,10 @@
                         "unit": "mg",
                         "count": 3660
                     },
-                    "dailyValue": 159
+                    "dailyValue": 153
                 },
                 "calcium": {
-                    "dailyValue": 8
+                    "dailyValue": 10
                 },
                 "iron": {
                     "dailyValue": 20
@@ -147,9 +147,9 @@
                 "fiber": {
                     "amount": {
                         "unit": "g",
-                        "count": null
+                        "count": 4
                     },
-                    "dailyValue": null
+                    "dailyValue": 16
                 },
                 "fat": {
                     "total": {
@@ -157,7 +157,7 @@
                             "unit": "g",
                             "count": 46
                         },
-                        "dailyValue": 59
+                        "dailyValue": 71
                     },
                     "transFat": {
                         "amount": {
@@ -180,7 +180,7 @@
                     },
                     {
                         "name": "C",
-                        "dailyValue": 10
+                        "dailyValue": 20
                     }
                 ]
             },
@@ -3409,7 +3409,7 @@
             "posId": "1004565",
             "retailModifiedItemId": "1004565",
             "mobileImage": "https://www.cfacdn.com/img/order/menu/Mobile/Breakfast/Parent/Bacon_muffin.webp",
-            "desktopImage": "https://www.cfacdn.com/img/order/COM/PDP_UPDATE/Images/Breakfast/BaconEggCheeseMuffin-Feed_0001s_0008_CFA_1605_59_EnglishMuffin_BaconEggCheese_PROD_2121_1240px.png",
+            "desktopImage": "https://www.cfacdn.com/img/order/COM/Menu_Refresh/Breakfast/Breakfast%20Desktop/_0000s_0007_BaconEggCheeseMuffin-Feed_0001s_0008_CFA_1605_59_EnglishMuffin_BaconEggCheese_PROD_2121_1240px.png",
             "description": "Delicious bacon and a folded egg, served on an english muffin.",
             "posNutritionCategory": "Breakfast Items"
         },
@@ -3504,7 +3504,7 @@
             "posId": "1005724",
             "retailModifiedItemId": "1005724",
             "mobileImage": "https://www.cfacdn.com/img/order/menu/Mobile/Sides/Menu%20Item/Md_Fruit.webp",
-            "desktopImage": "https://www.cfacdn.com/img/order/COM/PDP_UPDATE/Images/Sides/%5BFeed%5D_0003s_0002_Sides_Fruit-Cup.png",
+            "desktopImage": "https://www.cfacdn.com/img/order/COM/Menu_Refresh/Sides/Sides%20Desktop/_0006s_0010_%5BFeed%5D_0003s_0002_Sides_Fruit-Cup.png",
             "description": "A great-tasting, nutritious fruit mix made with mandarin orange segments, fresh strawberries, red and green apple pieces and blueberries, served chilled, in a choice of sizes.",
             "posNutritionCategory": "Breakfast Items"
         },
@@ -8280,7 +8280,7 @@
             "posId": "1000224",
             "retailModifiedItemId": "1000224",
             "mobileImage": "http://www.cfacdn.com/img/order/menu/Mobile/Beverages/Parent/chips.webp",
-            "desktopImage": "http://www.cfacdn.com/img/order/menu/Online/Drinks/chips_800.png",
+            "desktopImage": "https://www.cfacdn.com/img/order/menu/Online/Drinks/chips_800.png",
             "description": "A premium kettle-cooked waffle cut chip.",
             "posNutritionCategory": "Side Items"
         },
@@ -11904,7 +11904,7 @@
             "posId": "1005312",
             "retailModifiedItemId": "1005312",
             "mobileImage": "https://www.cfacdn.com/img/order/menu/Mobile/Breakfast/Parent/egg_white_chicken_grill.webp",
-            "desktopImage": "https://www.cfacdn.com/img/order/COM/PDP_UPDATE/Images/Breakfast/Stack620_0011_35592_eggWHTchk_p1_trg_42016_1240px.png",
+            "desktopImage": "https://www.cfacdn.com/img/order/COM/Menu_Refresh/Breakfast/Breakfast%20Desktop/_0000s_0027_%5BFeed%5D_0000s_0011_Breakfast_Egg-White-Griller.png",
             "description": "A breakfast portion of grilled chicken with a hint of citrus flavor, stacked with freshly cooked egg whites and American cheese, served on a toasted multigrain English\nmuffin.",
             "posNutritionCategory": "Breakfast Items"
         },
@@ -12095,6 +12095,7 @@
             "posId": "1005939",
             "retailModifiedItemId": "1005939",
             "mobileImage": "https://www.cfacdn.com/img/order/menu/Mobile/Breakfast/Menu%20Item/gilled_breakfast_filet.webp",
+            "desktopImage": "https://www.cfacdn.com/img/order/COM/Menu_Refresh/Breakfast/Breakfast%20Desktop/_0000s_0031_%5BFeed%5D_0000s_0007_Breakfast_Healthy-Grilled-Breakfast-Bowl.png",
             "posNutritionCategory": "Breakfast Items"
         },
         {
@@ -12189,6 +12190,7 @@
             "posId": "1005934",
             "retailModifiedItemId": "1005934",
             "mobileImage": "https://www.cfacdn.com/img/order/menu/Mobile/Breakfast/Menu%20Item/gilled_breakfast_filet.webp",
+            "desktopImage": "https://www.cfacdn.com/img/order/COM/Menu_Refresh/Breakfast/Breakfast%20Desktop/_0000s_0029_%5BFeed%5D_0000s_0009_Breakfast_Harvest-Grilled-Breakfast-Bowl.png",
             "posNutritionCategory": "Breakfast Items"
         },
         {
@@ -12753,7 +12755,7 @@
             "posId": "1004576",
             "retailModifiedItemId": "1004576",
             "mobileImage": "https://www.cfacdn.com/img/order/menu/Mobile/Sides/Menu%20Item/Md_Fruit.webp",
-            "desktopImage": "https://www.cfacdn.com/img/order/COM/PDP_UPDATE/Images/Sides/%5BFeed%5D_0003s_0002_Sides_Fruit-Cup.png",
+            "desktopImage": "https://www.cfacdn.com/img/order/COM/Menu_Refresh/Sides/Sides%20Desktop/_0006s_0010_%5BFeed%5D_0003s_0002_Sides_Fruit-Cup.png",
             "description": "A great-tasting, nutritious fruit mix made with mandarin orange segments, fresh strawberries, red and green apple pieces and blueberries, served chilled, in a choice of sizes.",
             "posNutritionCategory": "Side Items"
         },
@@ -14861,7 +14863,7 @@
             "retailModifiedItemId": "1006563",
             "servingSize": "Per entrée",
             "mobileImage": "http://www.cfacdn.com/img/order/menu/Mobile/Entrees/Menu%20Item/Entrees_Sandwich_Grilled-Chicken-Club-NoCheese.webp",
-            "desktopImage": "http://www.cfacdn.com/img/order/menu/Online/Entrees/grilledClubTest_800.png",
+            "desktopImage": "https://www.cfacdn.com/img/order/COM/Menu_Refresh/Entree/Entree%20Desktop/_0003s_0010_Final__0025_CFA_PDP_Grilled-Club-Sandwich_1085.png",
             "description": "A lemon-herb marinated boneless breast of chicken, grilled for a tender and juicy backyard-smokey taste, served on a toasted Multigrain Brioche bun with Colby-Jack cheese, applewood smoked bacon, Green Leaf lettuce and tomato. Served with Honey Roasted BBQ",
             "posNutritionCategory": "Classics"
         },
@@ -14958,7 +14960,7 @@
             "retailModifiedItemId": "1006564",
             "servingSize": "Per entrée",
             "mobileImage": "https://www.cfacdn.com/img/order/menu/Mobile/Entrees/Menu%20Item/Entrees_Sandwich_Grilled-Chicken-Club-PepperJack.webp",
-            "desktopImage": "http://www.cfacdn.com/img/order/menu/Online/Entrees/grilledClubTest_800.png",
+            "desktopImage": "https://www.cfacdn.com/img/order/COM/Menu_Refresh/Entree/Entree%20Desktop/_0003s_0010_Final__0025_CFA_PDP_Grilled-Club-Sandwich_1085.png",
             "description": "A lemon-herb marinated boneless breast of chicken, grilled for a tender and juicy backyard-smokey taste, served on a toasted Multigrain Brioche bun with Colby-Jack cheese, applewood smoked bacon, Green Leaf lettuce and tomato. Served with Honey Roasted BBQ",
             "posNutritionCategory": "Classics"
         },
@@ -15244,7 +15246,7 @@
             "retailModifiedItemId": "1004610",
             "servingSize": "per Sandwich",
             "mobileImage": "http://www.cfacdn.com/img/order/menu/Mobile/Entrees/Parent/Grilled_sandwich.webp",
-            "desktopImage": "https://www.cfacdn.com/img/order/COM/PDP_UPDATE/Images/Entrees/Grilled%20Deluxe%20Sandwich.png",
+            "desktopImage": "https://www.cfacdn.com/img/order/COM/Menu_Refresh/Entree/Entree%20Desktop/_0003s_0009_Final__0026_CFA_PDP_Grilled-Deluxe-Sandwich_1085.png",
             "description": "A boneless breast of chicken, marinated with a special blend of seasonings and grilled for a tender and juicy backyard-grilled taste, served on a toasted multigrain bun with Green Leaf lettuce and tomato. Served with Honey Roasted BBQ Sauce.",
             "posNutritionCategory": "Classics"
         },
@@ -15340,7 +15342,7 @@
             "posId": "1004611",
             "retailModifiedItemId": "1004611",
             "mobileImage": "https://www.cfacdn.com/img/order/menu/Mobile/Entrees/Menu%20Item/Entrees_Sandwich_Grilled-Chicken-Club-American.webp",
-            "desktopImage": "https://www.cfacdn.com/img/order/Individual/Menu/Entrees/GrilledClubSandwich.png",
+            "desktopImage": "https://www.cfacdn.com/img/order/COM/Menu_Refresh/Entree/Entree%20Desktop/_0003s_0010_Final__0025_CFA_PDP_Grilled-Club-Sandwich_1085.png",
             "description": "A boneless breast of chicken, marinated with a special blend of seasonings and grilled for a tender and juicy backyard-grilled taste, served on a toasted multigrain bun with Colby-Jack cheese, applewood smoked bacon, Green Leaf lettuce and tomato.  Served with Honey Roasted BBQ Sauce. Gluten-free bun also available at an additional cost.",
             "posNutritionCategory": "Classics"
         },
@@ -15817,14 +15819,14 @@
             "retailModifiedItemId": "1006560",
             "servingSize": "per Sandwich",
             "mobileImage": "http://www.cfacdn.com/img/order/menu/Mobile/Entrees/Parent/grilledChickenSandwich_test.webp",
-            "desktopImage": "http://www.cfacdn.com/img/order/menu/Online/Entrees/grilledSandwichTest_800.png",
+            "desktopImage": "https://www.cfacdn.com/img/order/COM/Menu_Refresh/Entree/Entree%20Desktop/_0003s_0009_Final__0026_CFA_PDP_Grilled-Deluxe-Sandwich_1085.png",
             "description": "A lemon-herb marinated boneless breast of chicken, grilled for a tender and juicy backyard-smokey taste, served on a toasted Multigrain Brioche bun with Green Leaf lettuce and tomato. Served with Honey Roasted BBQ Sauce.",
             "posNutritionCategory": "Classics"
         },
         {
             "tag": "GRILLED_NUGGETS_12_COUNT",
             "name": "12 ct Grilled Nuggets",
-            "ingredientStatement": "AMAZZZINGGGGGG Chicken (boneless skinless chicken breast filet, water, seasoning [apple cider vinegar, soybean oil, yeast extract, salt, modified corn starch, palm oil, dehydrated garlic, dehydrated onion, corn maltodextrin, sea salt, natural flavor, sugar, chicken stock, cane molasses, chicken fat, spice, natural flavor {including smoke}, dextrose, lemon peel, citric acid, red bell pepper, orange juice concentrate, grape juice concentrate, natural flavor, paprika, vinegar, xanthan gum, ascorbic acid, and spices]).",
+            "ingredientStatement": "Chicken (boneless skinless chicken breast filet, water, seasoning [apple cider vinegar, soybean oil, yeast extract, salt, modified corn starch, palm oil, dehydrated garlic, dehydrated onion, corn maltodextrin, sea salt, natural flavor, sugar, chicken stock, cane molasses, chicken fat, spice, natural flavor {including smoke}, dextrose, lemon peel, citric acid, red bell pepper, orange juice concentrate, grape juice concentrate, natural flavor, paprika, vinegar, xanthan gum, ascorbic acid, and spices]).",
             "nutrition": {
                 "calories": {
                     "total": 210,
@@ -17234,7 +17236,7 @@
             "posId": "1000225",
             "retailModifiedItemId": "1000225",
             "mobileImage": "https://www.cfacdn.com/img/order/menu/Mobile/Breakfast/Parent/hash_browns.webp",
-            "desktopImage": "https://www.cfacdn.com/img/order/COM/PDP_UPDATE/Images/Breakfast/%5BFeed%5D_0000s_0028_Breakfast_Hashbrowns_2.png",
+            "desktopImage": "https://www.cfacdn.com/img/order/COM/Menu_Refresh/Breakfast/Breakfast%20Desktop/_0000s_0009_%5BFeed%5D_0000s_0028_Breakfast_Hashbrowns_2.png",
             "description": "Delicious and crispy potato medallions cooked in canola oil.",
             "posNutritionCategory": "Breakfast Items"
         },
@@ -21964,8 +21966,8 @@
                     }
                 ]
             },
-            "posId": "1001289",
-            "retailModifiedItemId": "1001289",
+            "posId": "1001290",
+            "retailModifiedItemId": "1001290",
             "servingSize": "Per container",
             "mobileImage": "http://www.cfacdn.com/img/order/menu/Mobile/Beverages/Parent/apple_juice.webp",
             "desktopImage": "https://www.cfacdn.com/img/order/COM/Menu_Refresh/Drinks/Drinks%20Desktop/_0000s_0017_%5BFeed%5D_appley_620_tiny.png",
@@ -35198,8 +35200,8 @@
                     }
                 ]
             },
-            "posId": "1001169",
-            "retailModifiedItemId": "1001169",
+            "posId": "1001170",
+            "retailModifiedItemId": "1001170",
             "servingSize": "Per container",
             "mobileImage": "https://www.cfacdn.com/img/order/menu/Mobile/Beverages/Parent/milk_400.webp",
             "desktopImage": "https://www.cfacdn.com/img/order/COM/Menu_Refresh/Drinks/Drinks%20Desktop/_0000s_0020_%5BFeed%5D_0006s_0019_Drinks_Milk.png",
@@ -40619,7 +40621,7 @@
             "posId": "1000089",
             "retailModifiedItemId": "1000089",
             "mobileImage": "https://www.cfacdn.com/img/order/menu/Mobile/Breakfast/Menu%20Item/sausage_egg_cheese_biscuit.webp",
-            "desktopImage": "https://www.cfacdn.com/img/order/COM/PDP_UPDATE/Images/Breakfast/%5BFeed%5D_0000s_0012_Breakfast_Sausage-Egg-Cheese-Biscuit.png",
+            "desktopImage": "https://www.cfacdn.com/img/order/COM/Menu_Refresh/Breakfast/Breakfast%20Desktop/_0000s_0026_%5BFeed%5D_0000s_0012_Breakfast_Sausage-Egg-Cheese-Biscuit.png",
             "description": "A tasty pork sausage patty and a folded egg, served on a freshly baked buttermilk biscuit with cheese.",
             "posNutritionCategory": "Breakfast Items"
         },
@@ -47069,7 +47071,7 @@
             "retailModifiedItemId": "1001285",
             "servingSize": "per Sandwich",
             "mobileImage": "https://www.cfacdn.com/img/order/menu/Mobile/Entrees/Parent/Spicy_Sandwich.webp",
-            "desktopImage": "https://www.cfacdn.com/img/order/COM/PDP_UPDATE/Images/Entrees/Final__0052_CFA_PDP_Spicy-Chick-Fil-A-Sandwich_1085.png",
+            "desktopImage": "https://www.cfacdn.com/img/order/COM/Menu_Refresh/Entree/Entree%20Desktop/_0003s_0008_Final__0052_CFA_PDP_Spicy-Chick-Fil-A-Sandwich_1085.png",
             "description": "A boneless breast of chicken seasoned with a spicy blend of peppers, hand-breaded, pressure cooked in 100% refined peanut oil and served on a toasted, buttered bun with dill pickle chips. Gluten-free bun or multigrain bun also available at an additional cost.",
             "posNutritionCategory": "Classics"
         },
@@ -47919,6 +47921,7 @@
             "posId": "1006386",
             "retailModifiedItemId": "1006386",
             "mobileImage": "http://www.cfacdn.com/img/order/menu/Mobile/Entrees/Menu%20Item/SpicyStrip3.webp",
+            "desktopImage": "https://www.cfacdn.com/img/order/menu/Mobile/Entrees/Menu%20Item/SpicyStrip3.webp",
             "posNutritionCategory": "Classics"
         },
         {
