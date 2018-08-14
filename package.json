@@ -1,0 +1,22 @@
+{
+  "name": "nutritionfile",
+  "version": "1.0.0",
+  "description": "This command line tool will generate a JSON nutrition file",
+  "main": "run.js",
+  "dependencies": {
+    "fetch": "^1.1.0",
+    "inquirer": "^6.1.0",
+    "jsonfile": "^4.0.0",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.ittools.cfahome.com/ryan.rodwell/NutritonFileSort.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
