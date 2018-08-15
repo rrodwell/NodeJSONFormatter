@@ -8,7 +8,7 @@ https://nodejs.org/en/download/
 
 Once NodeJS is installed on the user's machine, open the command line to confirm a successful installation. The following commands should return a version number.
 In the command line type the following:
->> node -v 
+> >> node -v 
 
 >> v8.9.4 (returned output)
 
