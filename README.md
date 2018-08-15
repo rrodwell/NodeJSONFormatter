@@ -39,9 +39,9 @@ TO RUN PROGRAM
 
 >> node run.js command 
 
-The new JSON files created by the program will be saved to the "Output" folder within the project. If the a new file is named the same as a previously generated file, the previous file will be overwritten by the program. 
+The new JSON files created by the program will be saved to the "Output" folder within the project. If the new file is named the same as a previously generated file, the previous file will be overwritten by the program. 
 
-If the program is successful, a message stating "File has been created" will be printed to the console. 
+If the program is successful, a message stating "File has been created" will be printed to the console to let the user know when once it has finished. 
 
 
 
