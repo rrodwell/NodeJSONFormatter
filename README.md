@@ -26,7 +26,7 @@ TO INSTALL PACKAGES
 
 Once all of the packages are installed successfully, the program is ready to be used. 
 
-The tool will accept TWO commands. The first is a "generate" command that will generate a new file with the data returned from the Order API. The second command is a "sort" command that will read an existing JSON then sort and format the nutrition information. 
+The tool will accept TWO commands. The first is a "generate" command that will generate a new file with the data returned from the Order API. The second command is a "sort" command that will read an existing JSON file then sort and format the nutrition information. 
 
 All nutrition JSON files intended to be used for the "sort" command need to be placed in the "NutritionFiles" folder within the project.
 
