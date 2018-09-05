@@ -30,7 +30,7 @@ function callToOrderAPI() {
         This function will call the order API and capture the response JSON object. 
         Once the response is returned, the data is then passed onto the sort function.  
     */
-    fetch('https://order.api.my.chick-fil-a.com/orders/menu/nutrition/1.0', (err, response, body) => {
+    fetch('', (err, response, body) => {
         if(err){
             console.log(err)
         }
