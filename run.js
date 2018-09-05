@@ -1,13 +1,13 @@
-/* 
+/*
 
 TO INSTALL PACKAGES
->> npm install 
+>> npm install
 
 TO RUN PROGRAM
 >> node run.js command
 
 COMMANDS
-1. generate 
+1. generate
 2. sort
 
 */
@@ -27,8 +27,8 @@ var command = process.argv[2];
 
 function callToOrderAPI() {
     /*
-        This function will call the order API and capture the response JSON object. 
-        Once the response is returned, the data is then passed onto the sort function.  
+        This function will call the order API and capture the response JSON object.
+        Once the response is returned, the data is then passed onto the sort function.
     */
     fetch('', (err, response, body) => {
         if(err){
@@ -45,7 +45,7 @@ function readFile() {
     /*
          This function will read through a JSON file and capture the response as a JSON object.
          The file much be located in "NutritionFiles" folder inside the the project directory.
-         Once the response is returned, the data is then passed onto the sort function.  
+         Once the response is returned, the data is then passed onto the sort function.
      */
 
     var fileName;
@@ -67,8 +67,8 @@ function readFile() {
                 console.log(err)
             }
             var data = JSON.parse(stream)
-            console.log('Number of items: ',data.items.length)
-            sortData(data);
+            console.log('Number of items: ',data)
+            writeFile(data);
         });
     });
 }
@@ -76,10 +76,10 @@ function readFile() {
 function sortData(data) {
     /*
         This function will accept a JSON object with data from either the API or a previously parsed JSON file.
-        The data will then be iterated through, capturing all of the nutrition tags and appending them to a list. 
-        Once the list of tags is generated, the function will sort the list in alphabetic order. 
+        The data will then be iterated through, capturing all of the nutrition tags and appending them to a list.
+        Once the list of tags is generated, the function will sort the list in alphabetic order.
         The data will then be looped through again in order to build a newly sorted JSON object with the nutrition data.
-        It is this new JSOn object that is passed to the writeFile function. 
+        It is this new JSOn object that is passed to the writeFile function.
     */
     var tags = []
     var itemsObj = {
@@ -105,8 +105,8 @@ function sortData(data) {
 
 function writeFile(data){
     /*
-        This function will takes in a JSON object with recently sorted nutrition data. 
-        It will then prompt the user for a file name. Once the file name has been determined, the function will format the JSON argument and write it to a newly created file. 
+        This function will takes in a JSON object with recently sorted nutrition data.
+        It will then prompt the user for a file name. Once the file name has been determined, the function will format the JSON argument and write it to a newly created file.
         This file will be saved in the saved in the project directory.
     */
     var OUTPUT_FILENAME;
@@ -119,7 +119,7 @@ function writeFile(data){
         }
     ]).then(function (input) {
         OUTPUT_FILENAME = input.name;
-    
+
         var OUTPUT_PATH = './Output/' + OUTPUT_FILENAME + '.json'
 
         fs.writeFile(OUTPUT_PATH, JSON.stringify(data, null, 4), (err) => {
@@ -139,8 +139,8 @@ switch (command) {
         //Run Function to call API
         callToOrderAPI();
         break;
-    
-    case 'sort':
+
+    case 'format':
         //Run Function to read file
         readFile();
         break;
